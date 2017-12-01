@@ -29,8 +29,27 @@ body{
 	max-width: 100%;
 	height: auto;
 	display:block;
-
+	text-align: center;
 }
+
+
+
+.footer{
+	padding: 20px 50px 20px 50px;
+	background: #666666;
+	border-top: solid;
+    border-top-color: #cccccc;
+    color: #cccccc;
+}
+
+.section-one, .section-two{
+	padding-top: 30px;
+	
+}
+
+
+
+
 
 /*
 #about, #portfolio, #contact{
