@@ -9,8 +9,8 @@ body{
 
 .navbar{
 	padding: 10px 50px 10px 50px;
-	border-bottom: solid;
-    border-bottom-color: #cccccc;
+/*	border-bottom: solid;
+    border-bottom-color: #cccccc;*/
 }
 
 .nav-link{
@@ -31,6 +31,15 @@ body{
 	display:block;
 	text-align: center;
 }
+
+.mainimage{
+	padding-top: 30px;
+}
+
+.connect{
+	padding-top: 30px;
+}
+
 
 
 
