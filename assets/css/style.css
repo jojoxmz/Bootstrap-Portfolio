@@ -4,7 +4,7 @@ body{
 	color: #777777;
 	margin: 0 auto;
 	text-align: center;
-	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 .navbar{
@@ -41,7 +41,6 @@ body{
 .footer{
 	padding: 20px 50px 20px 50px;
 	background: #666666;
-
     color: #cccccc;
 }
 
@@ -58,6 +57,7 @@ body{
 
 h2, h3{
 	font-weight: bold;
+	padding-bottom: 20px
 }
 
 .formscontainer{
@@ -68,4 +68,8 @@ h2, h3{
 .portfolio{
 	padding: 30px;
 	background-color: white;
+}
+
+.row-1, .row-2{
+	padding-bottom: 30px;
 }
