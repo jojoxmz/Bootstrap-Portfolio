@@ -21,7 +21,6 @@ body{
 	font-size: 37px;
 }
 
-
 .img-responsive{
 	max-width: 100%;
 	height: auto;
@@ -54,7 +53,6 @@ body{
 	background-color: white;
 }
 
-
 h2, h3{
 	font-weight: bold;
 	padding-bottom: 20px
@@ -73,3 +71,4 @@ h2, h3{
 .row-1, .row-2{
 	padding-bottom: 30px;
 }
+
